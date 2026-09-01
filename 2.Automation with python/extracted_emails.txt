@@ -1,0 +1,5 @@
+ravi.kumar@example.com
+sita.reddy@example.org
+codealpha.student@example.com
+mentor.python@example.net
+arun.kumar@example.com
