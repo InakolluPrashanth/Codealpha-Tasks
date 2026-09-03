@@ -1,0 +1,12 @@
+STOCK PORTFOLIO TRACKER
+=============================================
+AAPL | Quantity: 2 | Price: $180 | Value: $360
+NVDA | Quantity: 3 | Price: $120 | Value: $360
+GOOGL | Quantity: 4 | Price: $140 | Value: $560
+META | Quantity: 5 | Price: $500 | Value: $2500
+AMZN | Quantity: 6 | Price: $180 | Value: $1080
+MSFT | Quantity: 7 | Price: $420 | Value: $2940
+TSLA | Quantity: 8 | Price: $250 | Value: $2000
+---------------------------------------------
+TOTAL INVESTMENT: $9800
+=============================================
