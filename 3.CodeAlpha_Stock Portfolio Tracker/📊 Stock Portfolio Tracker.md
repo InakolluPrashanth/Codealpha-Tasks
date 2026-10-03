@@ -1,6 +1,6 @@
 # 📊 Stock Portfolio Tracker
 
-A simple Python-based **Stock Portfolio Tracker** developed as part of the **CodeAlpha Python Programming Internship – Task 2**.
+A simple Python-based **Stock Portfolio Tracker** developed as part of the **CodeAlpha Python Programming Internship – Task 3**.
 
 The program allows users to enter stock symbols and quantities, calculates the investment value of each stock, and displays the total portfolio investment. The final portfolio report is also saved to a text file.
 
